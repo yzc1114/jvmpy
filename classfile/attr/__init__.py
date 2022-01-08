@@ -1,0 +1,13 @@
+__all__ = ['attr_inner_classes',
+           'attr_code',
+           'attr_bootstrap_methods',
+           'attr_constant_value',
+           'attr_enclosing_method',
+           'attr_exceptions',
+           'attr_line_number_table',
+           'attr_local_variable_table',
+           'attr_local_variable_type_table',
+           'attr_markers',
+           'attr_signature',
+           'attr_source_file',
+           'attr_unparsed']
